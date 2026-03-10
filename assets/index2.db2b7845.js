@@ -1,0 +1,1 @@
+import{_ as t,a,b as n,g as o,f as r}from"./index.063e71fb.js";const s={},c={style:{padding:"30px"}};function l(_,d){const e=a("el-alert");return n(),o("div",c,[r(e,{closable:!1,title:"\u83DC\u5355\u4E09\u7EA7-2",type:"warning"})])}var p=t(s,[["render",l]]);export{p as default};
