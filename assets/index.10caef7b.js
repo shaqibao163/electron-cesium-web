@@ -1,1 +1,0 @@
-import{_ as n,a as e,b as r,g as s,f as t,e as c}from"./index.063e71fb.js";const _={},l={style:{padding:"30px"}};function i(d,f){const o=e("router-view"),a=e("el-alert");return r(),s("div",l,[t(a,{closable:!1,title:"\u83DC\u5355\u4E00\u7EA7"},{default:c(()=>[t(o)]),_:1})])}var m=n(_,[["render",i]]);export{m as default};

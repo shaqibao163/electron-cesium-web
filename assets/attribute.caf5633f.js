@@ -1,0 +1,1 @@
+import{a6 as r}from"./index.6d53e5bb.js";function e(t){return r({url:"/mall-pms/api/v1/attributes",method:"get",params:t})}function s(t){return r({url:"/mall-pms/api/v1/attributes/batch",method:"post",data:t})}export{e as l,s};
